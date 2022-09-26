@@ -39,3 +39,15 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+#btn1 {
+
+  font-size: 30px;
+  border-radius: 5vh;
+  border-style: double;
+  border-left-color: red;
+  border-right-color: blue;
+  background-color: #4ECCA3;
+  border-width: 20px;
+
+}
